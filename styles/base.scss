@@ -1,0 +1,23 @@
+:root {
+  --primary-color: #d7802c;
+  --secondary-color: #404040;
+  --third-color: #000000;
+  --bg-wpp: #25D366;
+
+  --font-primary: "Raleway", sans-serif;
+
+  --bold-font: 700;
+  --extra-font: 800;
+
+  --awesomefont: uppercase;
+
+ 
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: var(--font-primary);
+}

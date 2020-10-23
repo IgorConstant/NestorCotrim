@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+/* CUSTOM */
+@import "base";
+@import "header";
+@import "intro";
+@import "intro-house";
+
+/* OWL */
+@import "owl/owl.carousel.scss";
+@import "owl/owl.theme.default.scss";
+@import "owl/owl.theme.green.scss"; ;

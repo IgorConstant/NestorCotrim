@@ -1,0 +1,127 @@
+nav {
+  border: none;
+  padding: 0px 16px;
+}
+
+.shrink {
+  background-color: transparent;
+
+  .navbar-brand {
+    display: none;
+  }
+}
+
+.fa-bars {
+  font-size: 30px;
+  color: #fff !important;
+}
+
+.navbar-toggler {
+  border: none;
+  background: var(--primary-color);
+  margin-left: auto;
+  border-radius: 0px;
+  padding: 21px 26px;
+  box-shadow: 10px 1px 14px 10px rgba(43, 26, 9, 0.25);
+
+  @media (min-width: 1024px) {
+    margin-top: -8px;
+  }
+}
+
+.wpp-nav {
+  background: #25d366;
+  padding: 21px 16px;
+  box-shadow: 10px 1px 14px 0px rgba(43, 26, 9, 0.25);
+
+  @media (min-width: 1024px) {
+    margin-top: -16px;
+  }
+
+  .fa-whatsapp {
+    color: #fff;
+    font-size: 30px;
+    padding: 0.25rem 0.75rem;
+  }
+}
+
+/* SLIDER */
+#slider-nav {
+  .slider-caption {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 5;
+  }
+
+  .slide-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    z-index: 3;
+  }
+
+  .slider-content {
+    position: relative;
+    display: inline-block;
+    padding: 50px 70px 48px 40px;
+    background: rgba(0, 0, 0, 0.6);
+    margin-top: 148px;
+
+    .title {
+      position: relative;
+      display: block;
+      font-size: 30px;
+      font-family: "Montserrat", sans-serif;
+      line-height: 33px;
+      font-weight: 600;
+      color: #71b100;
+      text-transform: uppercase;
+    }
+
+    .text {
+      position: relative;
+      display: block;
+      font-size: 16px;
+      font-family: "Montserrat", sans-serif;
+      color: #ffffff;
+      line-height: 23px;
+      margin-bottom: 32px;
+    }
+
+    .list li {
+      position: relative;
+      display: inline-block;
+      font-size: 18px;
+      font-family: "Montserrat", sans-serif;
+      color: #71b100;
+      line-height: 26px;
+      text-align: center !important;
+      margin: 0px 4px;
+    }
+
+    .list {
+      padding: 0px;
+    }
+  }
+
+  .cloned,
+  .owl-item {
+    .slider-content {
+      display: none;
+    }
+  }
+
+  .active {
+    .slider-content {
+      display: block;
+    }
+  }
+}

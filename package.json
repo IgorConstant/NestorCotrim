@@ -1,0 +1,41 @@
+{
+  "name": "lp-nestorcotrim",
+  "version": "1.0.0",
+  "description": "Landing Page - Nestor Cotrim",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorConstant/NestorCotrim.git"
+  },
+  "author": "Igor Henrique Constant - Duetto.ag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorConstant/NestorCotrim/issues"
+  },
+  "homepage": "https://github.com/IgorConstant/NestorCotrim#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "ie >= 8",
+    "edge >= 15",
+    "ie_mob >= 10",
+    "ff >= 45",
+    "chrome >= 45",
+    "safari >= 7",
+    "opera >= 23",
+    "ios >= 7",
+    "android >= 4",
+    "bb >= 10"
+  ]
+}
