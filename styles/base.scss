@@ -1,8 +1,8 @@
 :root {
-  --primary-color: #d7802c;
+  --primary-color: #f0811e;
   --secondary-color: #404040;
   --third-color: #000000;
-  --bg-wpp: #25D366;
+  --bg-wpp: #25d366;
 
   --font-primary: "Raleway", sans-serif;
 
@@ -10,8 +10,6 @@
   --extra-font: 800;
 
   --awesomefont: uppercase;
-
- 
 }
 
 * {
@@ -20,4 +18,40 @@
 
 body {
   font-family: var(--font-primary);
+}
+
+@media (max-width: 767.98px) {
+  .display-onlydesk {
+    display: none !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .display-onlymobile {
+    display: none !important;
+  }
+}
+
+#copyright {
+  p {
+    font-size: 12px;
+  }
+
+  .desenvolvido-por {
+    @media (min-width: 1024px) {
+      float: right;
+
+      p {
+        margin-top: 50px;
+      }
+    }
+
+    p {
+      text-transform: uppercase;
+    }
+
+    span {
+      font-weight: var(--extra-font);
+    }
+  }
 }

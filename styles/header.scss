@@ -1,14 +1,31 @@
 nav {
   border: none;
   padding: 0px 16px;
+
+  .container {
+    background: rgba(255, 255, 255, 0.45);
+
+    @media (min-width: 1024px) {
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+  }
 }
 
-.shrink {
-  background-color: transparent;
-
+@media (max-width: 767.98px) {
   .navbar-brand {
+    width: 24%;
+  }
+}
+
+@media (min-width: 768px) {
+  .on-mobile {
     display: none;
   }
+}
+
+.navbar-brand {
+  margin-left: 1rem;
 }
 
 .fa-bars {
@@ -23,19 +40,49 @@ nav {
   border-radius: 0px;
   padding: 21px 26px;
   box-shadow: 10px 1px 14px 10px rgba(43, 26, 9, 0.25);
+}
 
-  @media (min-width: 1024px) {
-    margin-top: -8px;
+.navbar-collapse {
+  background: var(--primary-color);
+
+  nav {
+    margin-bottom: 0px;
+
+    @media (min-width: 1024px) {
+      display: flex;
+      justify-content: center;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0px;
+      margin-bottom: 0px;
+
+      > li {
+        @media (min-width: 1024px) {
+          display: inline-block;
+        }
+
+        @media (max-width: 900px) {
+          text-align: right;
+        }
+
+        a {
+          color: #fff;
+          font-weight: var(--extra-font);
+        }
+      }
+    }
   }
 }
 
 .wpp-nav {
   background: #25d366;
-  padding: 21px 16px;
+  padding: 17px 16px;
   box-shadow: 10px 1px 14px 0px rgba(43, 26, 9, 0.25);
 
-  @media (min-width: 1024px) {
-    margin-top: -16px;
+  @media (max-width: 999px) {
+    padding: 17px 16px;
   }
 
   .fa-whatsapp {
@@ -45,8 +92,84 @@ nav {
   }
 }
 
+
 /* SLIDER */
 #slider-nav {
+  .slider-caption {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 5;
+  }
+
+  .slide-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: 3;
+  }
+
+  .slider-content {
+    position: relative;
+    display: inline-block;
+    padding: 50px 70px 48px 40px;
+    background: rgba(0, 0, 0, 0.6);
+    margin-top: 148px;
+
+    .text {
+      position: relative;
+      display: block;
+      font-size: 20px;
+      color: #ffffff;
+      line-height: 23px;
+      margin-bottom: 32px;
+    }
+
+    .list li {
+      position: relative;
+      display: inline-block;
+      font-size: 30px;
+      color: var(--primary-color);
+      line-height: 26px;
+      margin: 0px 15px;
+      font-weight: var(--bold-font);
+
+      span {
+        color: #fff;
+        font-weight: 100;
+        font-size: 14px;
+      }
+    }
+
+    .list {
+      padding: 0px;
+    }
+  }
+
+  .cloned,
+  .owl-item {
+    .slider-content {
+      display: none;
+    }
+  }
+
+  .active {
+    .slider-content {
+      display: block;
+    }
+  }
+}
+
+/* MOBILE */
+
+#slider-nav-mobile {
   .slider-caption {
     position: absolute;
     top: 0;
@@ -75,22 +198,15 @@ nav {
     background: rgba(0, 0, 0, 0.6);
     margin-top: 148px;
 
-    .title {
-      position: relative;
-      display: block;
-      font-size: 30px;
-      font-family: "Montserrat", sans-serif;
-      line-height: 33px;
-      font-weight: 600;
-      color: #71b100;
-      text-transform: uppercase;
+    @media (max-width: 767.98px) {
+      padding: 30px 0px 30px 23px;
+      margin-top: 100%;
     }
 
     .text {
       position: relative;
       display: block;
       font-size: 16px;
-      font-family: "Montserrat", sans-serif;
       color: #ffffff;
       line-height: 23px;
       margin-bottom: 32px;
@@ -99,12 +215,17 @@ nav {
     .list li {
       position: relative;
       display: inline-block;
-      font-size: 18px;
-      font-family: "Montserrat", sans-serif;
-      color: #71b100;
+      font-size: 25px;
+      color: var(--primary-color);
       line-height: 26px;
-      text-align: center !important;
-      margin: 0px 4px;
+      margin: 8px 18px 0 0;
+      font-weight: var(--bold-font);
+
+      span {
+        color: #fff;
+        font-weight: 100;
+        font-size: 14px;
+      }
     }
 
     .list {

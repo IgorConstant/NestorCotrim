@@ -1,0 +1,80 @@
+footer {
+  padding: 80px 0 60px 0;
+
+  .bg-map {
+    background-image: url(../../assets/images/bg-map.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    .block-map {
+      background: rgba(0, 0, 0, 0.5);
+      padding: 40px;
+      margin-top: 70%;
+
+      p {
+        color: #fff;
+      }
+
+      ul {
+        padding: 0px;
+        list-style: none;
+
+        li {
+          display: inline-block;
+          margin-right: 15px;
+
+          a {
+            color: var(--primary-color);
+            text-decoration: none;
+            font-weight: var(--bold-font);
+            font-size: 25px;
+          }
+        }
+      }
+
+      h3 {
+        text-transform: uppercase;
+        color: #fff;
+        font-weight: var(--extra-font);
+      }
+    }
+  }
+
+  .block-orange-contact {
+    background-color: var(--primary-color);
+
+    @media (min-width: 900px) {
+      padding: 51px 80px;
+    }
+
+    @media (max-width: 768.98px) {
+      padding: 40px;
+    }
+
+    h3 {
+      font-weight: var(--extra-font);
+    }
+
+    .form-area {
+      label {
+        font-weight: var(--bold-font);
+      }
+
+      .form-control {
+        border-radius: 0px;
+      }
+
+      .btn-area {
+        .btn-primary {
+          background-color: #000;
+          text-transform: uppercase;
+          border: 1px solid #fff;
+          font-weight: var(--bold-font);
+          padding: 10px 20px;
+          border-radius: 0px;
+        }
+      }
+    }
+  }
+}
