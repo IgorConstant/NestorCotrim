@@ -1,13 +1,13 @@
 <div class="container-fluid">
     <div class="row">
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 bg-house p-0">
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 bg-house p-0">
             <div class="block-orange d-flex align-items-center d-flex justify-content-center">
                 <h3 class="text-center">Espetacular casa</h3>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 d-flex align-items-center d-flex justify-content-center">
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 d-flex align-items-center d-flex justify-content-center">
             <div class="text-area">
-                <h4>com ambientes integrados <br>e voltados para um lindo jardim</h4>
+                <h4 class="anime">com ambientes integrados <br>e voltados para um lindo jardim</h4>
                 <p class="mt-4">Assinada pelo arquiteto David Bastos, com decoração de Dado Castello Branco e paisagismo de Alex Hanazaki,
                     foi concebida para promover a convivência e o bem estar. Salas aconchegantes, acabamentos de primeira linha
                     e eletrodomésticos Viking garantem o conforto e comodidade.</p>
