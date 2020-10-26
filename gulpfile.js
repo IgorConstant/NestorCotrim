@@ -33,7 +33,10 @@ function gulpJS() {
             'node_modules/bootstrap/dist/js/bootstrap.js',
             'scripts/owl-function.js',
             'scripts/owl.carousel.min.js',
-            'scripts/menu-shrink.js'
+            'scripts/menu-shrink.js',
+            'scripts/smooth.js',
+            'scripts/close-on-scroll.js',
+            'scripts/anime.js'
         ])
 
         .pipe(concat('main.js'))
