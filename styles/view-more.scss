@@ -56,6 +56,37 @@
     }
   }
 
+  .modal-content {
+    background: var(--primary-color);
+  }
+
+  .modal-header {
+    border-bottom: none;
+  }
+
+  .modal-body {
+    padding: 40px 60px;
+
+    h4 {
+      text-transform: uppercase;
+      font-size: 30px;
+      font-weight: var(--bold-font);
+    }
+
+    label {
+      font-weight: var(--bold-font);
+    }
+
+    .btn-primary {
+      background-color: var(--bg-wpp);
+      text-transform: uppercase;
+      border: 1px solid #fff;
+      font-weight: var(--bold-font);
+      padding: 10px 20px;
+      border-radius: 0px;
+    }
+  }
+
   .tracking-in-expand-action {
     -webkit-animation: tracking-in-expand 2s cubic-bezier(0.215, 0.61, 0.355, 1)
       both;

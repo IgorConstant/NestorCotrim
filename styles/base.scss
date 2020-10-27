@@ -52,6 +52,11 @@ body {
 
     span {
       font-weight: var(--extra-font);
+
+      a {
+        text-decoration: none;
+        color: #000000;
+      }
     }
   }
 }

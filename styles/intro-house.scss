@@ -17,8 +17,9 @@
     margin-top: 60px;
     height: 180px;
 
-    @media (max-width: 999px) {
-      width: 310px;
+
+    @media (max-width: 767.98px) {
+      display: none !important;
     }
 
     h3 {
@@ -85,6 +86,10 @@
       font-weight: var(--bold-font);
       color: var(--primary-color);
       font-size: 12px;
+
+      &:hover {
+        background: none;
+      }
     }
   }
 
