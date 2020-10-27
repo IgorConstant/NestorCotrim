@@ -8,6 +8,8 @@
     <meta name="description" content="O Nestor Cotrim está há mais de 30 anos levando lares incríveis para você e sua família no melhor condomínio de Itu, more no interior e tenha qualidade de vida, tranquilidade, paz, lazer que só o Terras pode te oferecer.">
     <meta name="keywords" content="Nestor Cotrim, More no Interior, Confiança, Itu, São Paulo, Conforto, Luxo, Eduardo Cotrim, Terras de São José, Interior Paulista, Qualidade de vida, Infraestrutura Completa ">
 
+    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
+
     <title>Nestor Cotrim - Corretor de Imóveis</title>
 
     <!-- CSS -->
