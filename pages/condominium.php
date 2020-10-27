@@ -43,6 +43,12 @@
 <div class="condominium-description">
     <div class="container p-4">
         <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                <div class="logo-terras mb-4">
+                    <img class="img-fluid" src="assets/images/terras-1.png" alt="Logo Terras">
+                </div>
+            </div>
+
             <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12">
                 <div class="text-condominium">
                     <p>O primeiro condomínio horizontal do Brasil, o Terras de São José foi criado há 45 anos na histórica Itu. Morar aqui é viver com a tranquilidade do interior e uma infraestrutura completa sem precisar de grandes centros urbanos.</p>
@@ -71,7 +77,7 @@
         </div>
     </div>
 </div>
-<br>
+<br> <br>
 <div class="condominium-gallery">
     <div class="container">
         <div class="row">
@@ -94,7 +100,7 @@
                 <div class="block-orange-gallery">
                     <p class="mb-0 title">Fale com a equipe do Nestor Cotrim</p>
                     <p class="mb-4">E venha conhecer o melhor condomínio que você pode viver!</p>
-                    <a class="btn btn-outline-primary mr-2" target="_blank" href="https://api.whatsapp.com/send?phone=5511999441433&text=Ol%C3%A1!%20Gostaria%20de%20maiores%20informa%C3%A7%C3%B5es%20sobre%20o%20Condom%C3%ADnio%20Terras%20de%20S%C3%A3o%20Jos%C3%A9" role="button">FALE CONOSCO <i class="fab fa-whatsapp"></i></a>
+                    <a class="btn btn-outline-primary mr-2" target="_blank" href="https://api.whatsapp.com/send?phone=5511987150003&text=Ol%C3%A1%20gostaria%20de%20maiores%20informa%C3%A7%C3%B5es%20sobre%20o%20condom%C3%ADnio%20Terras%20de%20S%C3%A3o%20Jos%C3%A9" role="button">FALE CONOSCO <i class="fab fa-whatsapp"></i></a>
                 </div>
             </div>
         </div>

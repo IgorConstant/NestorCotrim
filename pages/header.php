@@ -1,10 +1,10 @@
 <nav class="navbar fixed-top navbar-md navbar-light" id="banner">
     <div class="container">
-        <a href="#" class="navbar-brand"><img class="img-fluid d-none d-sm-block" src="assets/images/logo-footer.png" alt="Logo Nestor Cotrim"> <img class="img-fluid on-mobile" src="assets/images/logo-mobile.png" alt=""></a>
+        <a href="#" class="navbar-brand"><img class="img-fluid d-none d-sm-block" src="assets/images/logo-nestor.png" alt="Logo Nestor Cotrim"> <img class="img-fluid on-mobile" src="assets/images/logo-mobile.png" alt=""></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-bars"></i>
         </button>
-        <a class="wpp-nav" target="_blank" href="https://api.whatsapp.com/send?phone=5511999441433&text=Ol%C3%A1!%20Gostaria%20de%20maiores%20informa%C3%A7%C3%B5es%20sobre%20o%20Condom%C3%ADnio%20Terras%20de%20S%C3%A3o%20Jos%C3%A9"><i class="fab fa-whatsapp"></i></a>
+        <a class="wpp-nav" target="_blank" href="https://api.whatsapp.com/send?phone=5511987150003&text=Ol%C3%A1%20gostaria%20de%20maiores%20informa%C3%A7%C3%B5es%20sobre%20o%20condom%C3%ADnio%20Terras%20de%20S%C3%A3o%20Jos%C3%A9"><i class="fab fa-whatsapp"></i></a>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <nav>
                 <ul>

@@ -34,8 +34,7 @@
                 </div>
 
                 <ul>
-                    <li><a class="btn btn-outline-primary mt-2 mr-4" href="#" role="button">LOCALIZAÇÃO</a></li>
-                    <li><a class="btn btn-outline-primary mt-2" href="#" role="button">SOBRE O CONDOMÍNIO</a></li>
+                    <li><a class="btn btn-outline-primary mt-2 scroll" href="#condominium" role="button">SOBRE O CONDOMÍNIO</a></li>
                 </ul>
             </div>
         </div>

@@ -8,7 +8,7 @@
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
             <div class="desenvolvido-por">
-                <p>produzido por <span>agência duetto</span></p>
+                <p>produzido por <span><a href="https://www.duetto.ag" target="_blank">agência duetto</a></span></p>
             </div>
         </div>
     </div>

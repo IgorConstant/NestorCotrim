@@ -5,7 +5,7 @@
                 <h3>fale com o nestor</h3>
                 <ul>
                     <li><a href="tel:1140240808"><i class="fas fa-phone-alt"></i> (11) 4024-0808</a></li>
-                    <li><a target="_blank" href="https://api.whatsapp.com/send?phone=5511999441433&text=Ol%C3%A1!%20Gostaria%20de%20maiores%20informa%C3%A7%C3%B5es%20sobre%20o%20Condom%C3%ADnio%20Terras%20de%20S%C3%A3o%20Jos%C3%A9"><i class="fab fa-whatsapp"></i> (11) 99944-1433</a></li>
+                    <li><a target="_blank" href="https://api.whatsapp.com/send?phone=5511987150003&text=Ol%C3%A1%20gostaria%20de%20maiores%20informa%C3%A7%C3%B5es%20sobre%20o%20condom%C3%ADnio%20Terras%20de%20S%C3%A3o%20Jos%C3%A9"><i class="fab fa-whatsapp"></i> (11) 98715-0003</a></li>
                 </ul>
                 <p class="mb-0">Avenida Barata Ribeiro, 411 - Itu - SP</p>
             </div>
