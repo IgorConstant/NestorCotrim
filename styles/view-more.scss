@@ -41,12 +41,13 @@
 
     .wpp-link {
       color: #fff;
-      font-size: 15px;
+      font-size: 14px;
       text-decoration: none;
       position: absolute;
-      left: 50%;
+      left: 10%;
       top: 80%;
       font-weight: var(--bold-font);
+      line-height: 5px;
     }
 
     .fa-chevron-circle-right {
