@@ -12,7 +12,7 @@
                 <div class="houses">
                     <img class="img-fluid img-house" src="assets/images/casa1.png" alt="CASA - AMPLO TERRENO E ÓTIMA LOCALIZAÇÃO">
                     <div class="overlay">
-                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> CONHEÇA A CASA <i class="fas fa-chevron-circle-right"></i></a>
+                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> AMPLO TERRENO E <br> ÓTIMA LOCALIZAÇÃO <i class="fas fa-chevron-circle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -20,7 +20,7 @@
                 <div class="houses">
                     <img class="img-fluid img-house" src="assets/images/casa2.png" alt="CASA - MINIMALISTA">
                     <div class="overlay">
-                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> CONHEÇA A CASA <i class="fas fa-chevron-circle-right"></i></a>
+                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> MINIMALISTA <i class="fas fa-chevron-circle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -28,7 +28,7 @@
                 <div class="houses">
                     <img class="img-fluid img-house" src="assets/images/casa3.png" alt="CASA - RÚSTICA VILA ITALIANA">
                     <div class="overlay">
-                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> CONHEÇA A CASA <i class="fas fa-chevron-circle-right"></i></a>
+                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> RÚSTICA VILA ITALIANA <i class="fas fa-chevron-circle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -36,7 +36,7 @@
                 <div class="houses">
                     <img class="img-fluid img-house" src="assets/images/casa4.png" alt="CASA - CLASSE COM ARES DE FAZENDA">
                     <div class="overlay">
-                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> CONHEÇA A CASA <i class="fas fa-chevron-circle-right"></i></a>
+                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> CLASSE COM ARES DE FAZENDA <i class="fas fa-chevron-circle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
                 <div class="houses">
                     <img class="img-fluid img-house" src="assets/images/casa5.png" alt="CASA - LINDA VISTA E AMPLO ESPAÇO">
                     <div class="overlay">
-                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> CONHEÇA A CASA <i class="fas fa-chevron-circle-right"></i></a>
+                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> LINDA VISTA E AMPLO ESPAÇO <i class="fas fa-chevron-circle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -52,7 +52,7 @@
                 <div class="houses">
                     <img class="img-fluid img-house" src="assets/images/casa6.png" alt="CASA - COLONIAL QUE SURPREENDE">
                     <div class="overlay">
-                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> CONHEÇA A CASA <i class="fas fa-chevron-circle-right"></i></a>
+                        <a class="wpp-link" href="#" data-toggle="modal" data-target="#modalContact"> COLONIAL QUE SURPREENDE <i class="fas fa-chevron-circle-right"></i></a>
                     </div>
                 </div>
             </div>

@@ -70,8 +70,8 @@
                     <p><span><img width="15%" src="assets/images/church.svg" alt="Condominio com Capela"></span> Capela</p>
                     <p><span><img width="15%" src="assets/images/golf.svg" alt="Condominio com Restaurante"></span> Club House e campo de golfe</p>
                     <p><span><img width="15%" src="assets/images/squash.svg" alt="Condominio com Quadras de Squash"></span> Quadras de Squash</p>
-                    <p><span><img width="12%" src="assets/images/tennis.svg" alt="Condominio com Quadras de Tênis"></span> Quadras de Tênis</p>
-                    <p><span><img width="12%" src="assets/images/volleyball.svg" alt="Condominio com Quadra de Vôlei de Areia"></span> Quadra de Vôlei de areia</p>
+                    <p><span><img width="15%" src="assets/images/tennis.svg" alt="Condominio com Quadras de Tênis"></span> Quadras de Tênis</p>
+                    <p><span><img width="15%" src="assets/images/volleyball.svg" alt="Condominio com Quadra de Vôlei de Areia"></span> Quadra de Vôlei de areia</p>
                 </div>
             </div>
         </div>

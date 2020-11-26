@@ -4,7 +4,7 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-bars"></i>
         </button>
-        <a class="wpp-nav" target="_blank" href="https://api.whatsapp.com/send?phone=5511987150003&text=Ol%C3%A1%20gostaria%20de%20maiores%20informa%C3%A7%C3%B5es%20sobre%20o%20condom%C3%ADnio%20Terras%20de%20S%C3%A3o%20Jos%C3%A9"><i class="fab fa-whatsapp"></i></a>
+        <a class="wpp-nav" target="_blank" href="https://api.whatsapp.com/send?phone=5511987150003&text=Ol%C3%A1!%20Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20a%20casa%20Lar%20dos%20sonhos%2C%20projeto%20renomado"><i class="fab fa-whatsapp"></i></a>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <nav>
                 <ul>
