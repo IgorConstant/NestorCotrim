@@ -6,9 +6,9 @@ jQuery(document).ready(function ($) {
         margin: 0,
         nav: false,
         dots: false,
-        //autoplay: true,
-        //autoplayTimeout: 8000,
-        //autoplayHoverPause: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
         responsive: {
             0: {
                 items: 1,
@@ -36,9 +36,9 @@ jQuery(document).ready(function ($) {
         margin: 0,
         nav: false,
         dots: false,
-        //autoplay: true,
-        //autoplayTimeout: 8000,
-        //autoplayHoverPause: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
         responsive: {
             0: {
                 items: 1,
