@@ -13,7 +13,7 @@ $contact = "INSERT INTO contato (nome, telefone, created) VALUES ('$nome', '$tel
 $msg = mysqli_query($conn, $contact);
 
 if ($msg) {
-    header("Refresh:1; url=https://api.whatsapp.com/send?phone=5511987150003&text=Ol%C3%A1!%20Gostaria%20de%20maiores%20informa%C3%A7%C3%B5es%20sobre%20o%20Condom%C3%ADnio%20Terras%20de%20S%C3%A3o%20Jos%C3%A9%20Nome:%20$nome%20Telefone:%20$tel%20");
+    header("Refresh:1; url=https://api.whatsapp.com/send?phone=5511987150003&text=Ol%C3%A1%2C%20gostaria%20de%20maiores%20informa%C3%A7%C3%B5es%20sobre%20as%20casas%20a%20venda%20no%20condom%C3%ADnio%20Terras%20de%20S%C3%A3o%20Jos%C3%A9%20Nome:%20$nome%20Telefone:%20$tel%20");
 } else {
-    echo "<script>alert('Ocorreu um problema ao enviar sua mensgem, entre em contato pelo WhatsApp:  (11) 99944-1433');</script>";
+    echo "<script>alert('Ocorreu um problema ao enviar sua mensgem, entre em contato pelo WhatsApp:  (11) 98715-0003');</script>";
 }
